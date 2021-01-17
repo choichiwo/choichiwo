@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is ChiWon Choi <br>
-I studied military science, and now I am R, SQL, and Python :notebook:
+I studied military science, and now I am R, SQL, Python, kaggle, crawling :notebook:
 
 
 
